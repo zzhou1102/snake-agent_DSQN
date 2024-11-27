@@ -1,0 +1,33 @@
+{
+
+  "W1":[
+    {
+      "col_wall":-5,
+      "loop":-8,
+      "scored":5,
+      "num_games":10000,
+      "eps":500,
+      "lr":0.0005,
+      "graph":"optimal_lr__000005_eps__500_0"
+    },
+    {
+      "col_wall":-5,
+      "loop":-8,
+      "scored":5,
+      "num_games":10000,
+      "eps":500,
+      "lr":0.0005,
+      "graph":"optimal_lr__000005_eps__500_1"
+    },
+    {
+      "col_wall":-5,
+      "loop":-8,
+      "scored":5,
+      "eps":500,
+      "num_games":10000,
+      "lr":0.0005,
+      "graph":"optimal_lr__000005_eps__500_2"
+    }
+  ]
+
+}
